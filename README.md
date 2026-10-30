@@ -32,3 +32,20 @@ This project is intended for educational purpose in an isolated virtual lab.
 ## Wazuh Dashboard screenshot
 ![Wazuh SIEM Dashboard]
 (wazuh-dashboard.png)
+## Lab Arcitecture
+```text
+windows 11 host
+virtualBox host-only networks
+Ubuntu 24.04 Wazuh SIEM Server
+IP: 192.168.56.10
+Network connecttivity verified(ping)
+kali linux: VM
+wazuh agent: not installed
+```
+## Network configuration 
+- Virtualization: Oracle VirtualBox
+- Wazuh server: Ubuntu 24.04
+- Host-Only network:192.168.56.0/24
+- Wazuh server IP: 192.168.56.10
+- Kali Linux: Network connectivity verified
+- Agent-based monitoring: pending
