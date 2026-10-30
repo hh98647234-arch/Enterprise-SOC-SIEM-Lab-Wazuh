@@ -29,3 +29,6 @@ This lab design designed to develop practical Blue Team and SOC Analyst skills.
 SIEM Deployment | linux administration | virtualization | network configuration | security monitoring | SOC fundamentals.
 ## Disclaimer 
 This project is intended for educational purpose in an isolated virtual lab.
+## Wazuh Dashboard screenshot
+![Wazuh SIEM Dashboard]
+(wazuh-dashboard.png)
